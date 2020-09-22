@@ -1,0 +1,12 @@
+[
+  {
+    "locator": "userName",
+    "by": "xpath",
+    "bydesc": "//a[@class='account']/span"
+  },
+  {
+    "locator": "signOut",
+    "by": "xpath",
+    "bydesc": "//a[text()='Sign out']"
+  }
+]

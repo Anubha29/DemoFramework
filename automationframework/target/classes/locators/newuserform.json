@@ -1,0 +1,59 @@
+[
+  {
+    "locator": "firstName",
+    "by": "xpath",
+    "bydesc": "//input[@id='customer_firstname']"
+  },
+  {
+    "locator": "lastName",
+    "by": "xpath",
+    "bydesc": "//input[@id='customer_lastname']"
+  },
+  {
+    "locator": "email",
+    "by": "xpath",
+    "bydesc": "//input[@id='email']"
+  },
+  {
+    "locator": "password",
+    "by": "xpath",
+    "bydesc": "//input[@id='passwd']"
+  },
+  {
+    "locator": "addressLine1",
+    "by": "xpath",
+    "bydesc": "//input[@id='address1']"
+  },
+  {
+    "locator": "city",
+    "by": "xpath",
+    "bydesc": "//input[@id='city']"
+  },
+  {
+    "locator": "state",
+    "by": "xpath",
+    "bydesc": "//select[@id='id_state']"
+  },
+  {
+    "locator": "postCode",
+    "by": "xpath",
+    "bydesc": "//input[@id='postcode']"
+  }
+,
+  {
+    "locator": "country",
+    "by": "xpath",
+    "bydesc": "//select[@id='id_country']"
+  }
+,
+  {
+    "locator": "phone",
+    "by": "xpath",
+    "bydesc": "//input[@id='phone_mobile']"
+  },
+  {
+    "locator": "SubmitButton",
+    "by": "xpath",
+    "bydesc": "//button[@id='submitAccount']"
+  }
+]

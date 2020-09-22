@@ -1,0 +1,27 @@
+[
+  {
+    "locator": "createAccountInput",
+    "by": "xpath",
+    "bydesc": "//input[@id='email_create']"
+  },
+  {
+    "locator": "createAccountButton",
+    "by": "xpath",
+    "bydesc": "//button[@id='SubmitCreate']"
+  },
+  {
+    "locator": "loginEmail",
+    "by": "xpath",
+    "bydesc": "//input[@id='email']"
+  },
+  {
+    "locator": "loginPassword",
+    "by": "xpath",
+    "bydesc": "//input[@id='passwd']"
+  },
+  {
+    "locator": "loginSubmitButton",
+    "by": "xpath",
+    "bydesc": "//button[@id='SubmitLogin']"
+  }
+]

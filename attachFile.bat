@@ -1,0 +1,1 @@
+curl -D- -u user:Password -X POST -H "X-Atlassian-Token: no-check" -F "file=@C:\Users\..." JIRAURL

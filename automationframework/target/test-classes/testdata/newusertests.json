@@ -1,0 +1,20 @@
+{
+  "createNewUser" : {
+    "testName" : "Create new user with valid data",
+    "firstName" : "Test",
+    "lastName": "User",
+    "email": "test123456@abc.com",
+    "password": "test123456",
+    "addressLine1": "Dummy Addr",
+    "city": "Delhi",
+    "state": "24",
+    "postCode": "23451",
+    "country": "21",
+    "phone": "9517532589"
+  },
+  "loginValidUser" : {
+    "testName" : "Login to existing user with valid credentials",
+    "useremail" : "test2908@abc.com",
+    "userpwd" : "test2908"
+  }
+}
